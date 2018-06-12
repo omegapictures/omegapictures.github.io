@@ -1,0 +1,7 @@
+day7film.com
+User-Agent: *
+Disallow: /cpx.php
+Disallow: /medios1.php
+Disallow: /toolbar.php
+Disallow: /check_image.php
+Disallow: /checkpopunder.php
