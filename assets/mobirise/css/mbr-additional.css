@@ -1439,6 +1439,14 @@ body {
 .cid-qSeNmGNsE4 .card .panel-body {
   color: #767676;
 }
+.cid-qVvVxiNjPe {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qVvVxiNjPe .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qSeNF2tWnB {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1498,7 +1506,7 @@ body {
   }
 }
 .cid-qSeMqVjDbr {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #f8f8f8;
 }
